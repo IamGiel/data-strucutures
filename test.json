@@ -1,0 +1,21 @@
+[
+  {
+    "value": " hoooooooooooooo ",
+    "tail": {
+      "value": " hehehehehehehehe ",
+      "tail": {
+        "value": 5,
+        "tail": null,
+        "next": {
+          "value": 4,
+          "tail": null,
+          "next": {
+            "value": "Hello",
+            "tail": null,
+            "next": { "value": false, "tail": null }
+          }
+        }
+      }
+    }
+  }
+]
